@@ -1,0 +1,7 @@
+1,Cristian,20,Gomes,estudante,tentandoAprendeJava,1,Cristian,12345
+2,Sofia,56,melo,jornalista,tentandoAprendeJava1,2,Sofia,12345
+3,kathy,13, Sierra,jogador,tentandoAprendeJava2,2,kathy,12345
+4,thomas,23, Cormen,marinheiro,tentandoAprendeJava3,1,thomas,12345
+5,Deitel,22,jose,carcereiro,tentandoAprendeJava4,2,Deitel,12345
+6,joao,17,santos,matador,tentandoAprendeJava5,2,joao,12345
+7,Harry Potter,50,miler,advogado,tentandoAprendeJava6,2,Harry Potter,12345

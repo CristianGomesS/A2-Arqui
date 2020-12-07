@@ -1,0 +1,8 @@
+1,Effective Java,42,Joshua Bloch,2
+2,Head First Java,39,Kathy Sierra,0
+3,Head First Design Pattern,44,Kathy Sierra,0
+4,Introduction to Algorithm,72,Thomas Cormen,18
+5,Java Como Programar,200,Deitel,22
+6,Java2 Como Programar,100,Deitel,5
+7,Harry Potter,50, Mulher,9
+8,Percy Jackson,20,Rick Morty,5
